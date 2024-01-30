@@ -1,18 +1,18 @@
 body{
-  background-color: #183830;
+  background-color: #183830
 }
 
 /*NAWIGACJA*/
 .navbar{
   margin-top: 10px;
-  margin-left: 93px;
+  margin-left: 93px
 }
 /*----------------------------*/
 
 
 /*HOME*/
 .home{
-  height: 500px;
+  height: 500px
 }
 
 .subtitle{
@@ -57,14 +57,14 @@ body{
   background-color: #E97F51; /* Kolor linii */
   margin-top: 410px; /* Odstęp od innych elementów */
   position: absolute;
-  left: 100px;
+  left: 100px
 }
 /*----------------------------*/
 
 /*O MNIE*/
 .about{
   height: 600px;
-  background-color: #1E4139;
+  background-color: #1E4139
 }
 .long-story{
   color: white;
@@ -72,16 +72,16 @@ body{
   font-family: Josefin Sans;
   font-weight: 300;
   word-wrap: break-word;
-  margin-top: 90px;
+  margin-top: 90px
 }
 
 .omnie{
   color: #E97F51;
-  font-size: 64px;
+  font-size: 50px;
   font-family: Josefin Sans;
   font-weight: 400;
   word-wrap: break-word;
-  position: relative;
+  position: relative
 }
 
 .foto{
@@ -90,7 +90,7 @@ body{
   border: 16px;
   border-color: #E97F51;
   border-style: solid;
-  margin-top: 30px;
+  margin-top: 30px
 }
 
 .line2{
@@ -99,15 +99,45 @@ body{
   background-color: #E97F51; /* Kolor linii */
   margin-top: 490px; /* Odstęp od innych elementów */
   position: absolute;
-  left: 100px;
+  left: 100px
+}
+/*----------------------------*/
+
+/*UMIEJĘTNOŚCI*/
+.skills{
+  height: 600px;
 }
 
+.umiejetnosci{
+  color: #E97F51;
+  font-size: 50px;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  word-wrap: break-word;
+  position: relative
+}
+
+.foto-skill{
+  width: 686px;
+  height: 414px;
+  margin-top: 40px
+}
 
 /*----------------------------*/
 
-.skills{
-  height: 500px;
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .portfolio{
   height: 500px;
