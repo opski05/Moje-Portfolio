@@ -122,29 +122,49 @@ body{
   height: 400px;
   margin-top: 40px
 }
+/*--------------------------*/
 
-/*----------------------------*/
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/*PORTFOLIO*/
 .portfolio{
   height: 500px;
   background-color: #1E4139;
 }
+/*--------------------------*/
 
+/*KONTAKT*/
 .contact{
   height: 500px;
 }
 
+.kontakt{
+  color: #E97F51;
+  font-size: 50px;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  word-wrap: break-word;
+  position: relative;
+  padding-top: 10px;
+}
+
+.form-label{
+  color: #ffffff;
+  font-size: 20px;
+  font-family: Josefin Sans;
+}
+
+.contact #inputAddress{
+  height: 150px;
+}
+/*----------------------------*/
+
+/*STOPKA*/
+.footer{
+  height: 50px;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: Josefin Sans;
+  font-weight: 400;
+  background-color: #0f2621;
+  padding-top: 10px;
+}
+/*----------------------------*/
