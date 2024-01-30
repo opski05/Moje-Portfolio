@@ -2,29 +2,8 @@ body{
   background-color: #183830;
   position: relative;
 }
+
 /*navbar*/
-.label {
-  width: 79px;
-  height: 32px;
-}
-
-.label .text-wrapper {
-  position: fixed;
-  top: 0;
-  left: 0;
-  font-family: "Josefin Sans-Regular", Helvetica;
-  font-weight: 400;
-  color: #ffffff;
-  font-size: 32px;
-  letter-spacing: 0;
-  line-height: normal;
-  white-space: nowrap;
-}
-
 .nav-link{
-  color: #ffffff;
-}
-
-.navbar-brand{
-  color: #ffffff;
+  color: #fffff;
 }
