@@ -1,32 +1,22 @@
 body{
   background-color: #183830;
-  position: relative;
-
 }
 
-/*navbar*/
-.nav-link{
-  color: #ffff;
-}
+/*NAWIGACJA*/
 .navbar{
-  margin-left: 100px;
-  margin-right: 100px;
-  margin-top: 20px;
+  margin-left: 95px;
 }
+/*----------------------------*/
 
-/*home*/
 
+/*HOME*/
 .home{
-  width: 100%;
-  height: 100%;
-  position: relative;
-  top: 200px;
-  margin-left: 100px;
-  margin-right: 100px;
+  height: 500px;
 }
 
 .subtitle{
-  left: 5px;
+  margin-top: 100px;
+  left: 100px;
   top: 0px;
   position: absolute;
   color: #E97F51;
@@ -37,8 +27,8 @@ body{
 }
 
 .big-title{
-  left: 0px;
-  top: 75px;
+  left: 100px;
+  top: 150px;
   position: absolute;
   color: white;
   font-size: 128px;
@@ -50,25 +40,42 @@ body{
 
 .story{
   width: 1261px;
-  left: 5px;
-  top: 270px;
+  left: 100px;
+  top: 325px;
   position: absolute;
   color: #E97F51;
-  font-size: 32px;
+  font-size: 25px;
   font-family: Josefin Sans;
   font-weight: 300;
   word-wrap: break-word"
 }
 
 .line{
-  width: 100%;
+  width: 1240px;
   height: 3px; /* Grubość linii */
   background-color: #E97F51; /* Kolor linii */
-  margin-top: 10px; /* Odstęp od innych elementów */
+  margin-top: 410px; /* Odstęp od innych elementów */
+  position: absolute;
+  left: 100px;
 }
+/*----------------------------*/
 
+/*O MNIE*/
 .about{
-  margin-top: 20px;
   height: 500px;
   background-color: #1E4139;
 }
+
+.skills{
+  height: 500px;
+}
+
+.portfolio{
+  height: 500px;
+  background-color: #1E4139;
+}
+
+.contact{
+  height: 500px;
+}
+
