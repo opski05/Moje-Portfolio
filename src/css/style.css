@@ -1,13 +1,12 @@
 body{
   background-color: #183830;
   position: relative;
-  margin-left: 100px;
-  margin-right: 100px;
+
 }
 
 /*navbar*/
 .nav-link{
-  color: #fffff;
+  color: #ffff;
 }
 .navbar{
   margin-left: 100px;
@@ -22,6 +21,8 @@ body{
   height: 100%;
   position: relative;
   top: 200px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 .subtitle{
@@ -64,4 +65,10 @@ body{
   height: 3px; /* Grubość linii */
   background-color: #E97F51; /* Kolor linii */
   margin-top: 10px; /* Odstęp od innych elementów */
+}
+
+.about{
+  margin-top: 20px;
+  height: 500px;
+  background-color: #1E4139;
 }
